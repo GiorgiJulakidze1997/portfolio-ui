@@ -41,6 +41,10 @@ body {
     display: none;
 }
 
+.x-button-box {
+    display: none;
+}
+
 
 
 
@@ -277,6 +281,11 @@ footer {
 
     .primary-menu {
         display: none;
+    }
+
+    .x-button-box {
+        display: block;
+        text-align: right;
     }
 
     nav {
