@@ -41,9 +41,13 @@ body {
     display: none;
 }
 
-.x-button-box {
+.x-button {
     display: none;
 }
+
+/* .x-button-box {
+    display: none;
+} */
 
 
 
@@ -264,7 +268,8 @@ footer {
 }
 
 
-
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* MOBILE  */
 
 
 
@@ -284,8 +289,13 @@ footer {
     }
 
     .x-button-box {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .x-button {
         display: block;
-        text-align: right;
+        
     }
 
     nav {
