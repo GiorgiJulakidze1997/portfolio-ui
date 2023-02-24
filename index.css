@@ -196,10 +196,14 @@ header a {
     margin-bottom: 50px;
 }
 
+.thirth-section-title-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 .thirth-section-title-box p {
     font-weight: 400;
     font-size: 22px;
-    line-height: 60px;
+    /* line-height: 60px; */
     color: #21243D;
 }
 
